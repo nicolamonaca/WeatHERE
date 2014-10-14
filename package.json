@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nicolamonaca/weathere/issues"
   },
-  "homepage": "https://github.com/nicolamonaca/weathere"
+  "homepage": "https://github.com/nicolamonaca/weathere",
+  "dependencies": {
+    "express": "^4.9.7"
+  }
 }
