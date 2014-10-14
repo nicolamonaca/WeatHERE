@@ -1,0 +1,22 @@
+{
+  "name": "WeatHERE",
+  "version": "1.0.0",
+  "description": "A simple wheather app built using modern technologies, tests and CI - just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolamonaca/weathere.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Nicola Lamonaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolamonaca/weathere/issues"
+  },
+  "homepage": "https://github.com/nicolamonaca/weathere"
+}
